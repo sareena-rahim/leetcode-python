@@ -56,7 +56,7 @@ My goals:
 
 📫 How to reach me:
 
-📧 sareenaar385@gmail.com
+📧 sareenar385@gmail.com
 
 ## 🤝 Contributing
 
