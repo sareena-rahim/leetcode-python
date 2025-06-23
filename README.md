@@ -8,6 +8,8 @@ This repository contains my solutions to various LeetCode problems as I practice
 |---------|------------|----------|
 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](two_sum.py) |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [palindrome_number.py](palindrome_number.py) | 
+| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [roman_to_integer.py](roman_to_integer.py) |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.py](longest_common_prefix.py) |
 
 ## 🚀 How to Run
 
@@ -21,6 +23,8 @@ This repository contains my solutions to various LeetCode problems as I practice
    ```bash
    python two_sum.py
    python palindrome_number.py
+   python roman_to_integer.py
+   python longest_common_prefix.py
    ```
 
 ## 🎯 Goals
@@ -32,10 +36,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 2 solved
+- **Easy**: 4 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 2 problems
+- **Total**: 4 problems
 
 ## 🛠️ Languages Used
 
