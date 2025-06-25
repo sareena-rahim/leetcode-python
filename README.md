@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [palindrome_number.py](palindrome_number.py) | 
 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [roman_to_integer.py](roman_to_integer.py) |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.py](longest_common_prefix.py) |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid_parentheses.py](valid_parentheses.py) |
 
 ## 🚀 How to Run
 
@@ -25,6 +26,7 @@ This repository contains my solutions to various LeetCode problems as I practice
    python palindrome_number.py
    python roman_to_integer.py
    python longest_common_prefix.py
+   python valid_parentheses.py
    ```
 
 ## 🎯 Goals
@@ -36,10 +38,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 4 solved
+- **Easy**: 5 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 4 problems
+- **Total**: 5 problems
 
 ## 🛠️ Languages Used
 
