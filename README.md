@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.py](longest_common_prefix.py) |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid_parentheses.py](valid_parentheses.py) |
 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge_two_sorted_list.py](merge_two_sorted_list.py) |
+|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove_duplicates_from_sorted_array.py](remove_duplicates_from_sorted_array.py) |
 ## 🚀 How to Run
 
 1. Clone this repository:
@@ -39,10 +40,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 6 solved
+- **Easy**: 7 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 6 problems
+- **Total**: 7 problems
 
 ## 🛠️ Languages Used
 
