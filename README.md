@@ -13,6 +13,8 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [valid_parentheses.py](valid_parentheses.py) |
 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge_two_sorted_list.py](merge_two_sorted_list.py) |
 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove_duplicates_from_sorted_array.py](remove_duplicates_from_sorted_array.py) |
+| [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [index_of_first_occurrence_in_a_string.py](index_of_first_occurrence_in_a_string.py) |
+
 ## 🚀 How to Run
 
 1. Clone this repository:
@@ -29,6 +31,7 @@ This repository contains my solutions to various LeetCode problems as I practice
    python longest_common_prefix.py
    python valid_parentheses.py
    python merge_sorted_list.py
+   python index_of_first_occurrence_in_a_string.py
    ```
 
 ## 🎯 Goals
@@ -40,10 +43,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 7 solved
+- **Easy**: 8 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 7 problems
+- **Total**: 8 problems
 
 ## 🛠️ Languages Used
 
