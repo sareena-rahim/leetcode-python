@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems as I practice
 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge_two_sorted_list.py](merge_two_sorted_list.py) |
 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove_duplicates_from_sorted_array.py](remove_duplicates_from_sorted_array.py) |
 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [index_of_first_occurrence_in_a_string.py](index_of_first_occurrence_in_a_string.py) |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [search_insert_position.py](search_insert_position.py) |
 
 ## 🚀 How to Run
 
@@ -43,10 +44,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 8 solved
+- **Easy**: 9 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 8 problems
+- **Total**: 9 problems
 
 ## 🛠️ Languages Used
 
