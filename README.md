@@ -15,6 +15,7 @@ This repository contains my solutions to various LeetCode problems as I practice
 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove_duplicates_from_sorted_array.py](remove_duplicates_from_sorted_array.py) |
 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [index_of_first_occurrence_in_a_string.py](index_of_first_occurrence_in_a_string.py) |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [search_insert_position.py](search_insert_position.py) |
+| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [length_of_last_word.py](length_of_last_word.py) |
 
 ## 🚀 How to Run
 
@@ -32,7 +33,10 @@ This repository contains my solutions to various LeetCode problems as I practice
    python longest_common_prefix.py
    python valid_parentheses.py
    python merge_sorted_list.py
+   python remove_duplicates_from_sorted_array.py
    python index_of_first_occurrence_in_a_string.py
+   python search_insert_position.py
+   python length_of_last_word.py
    ```
 
 ## 🎯 Goals
@@ -44,10 +48,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 9 solved
+- **Easy**: 10 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 9 problems
+- **Total**: 10 problems
 
 ## 🛠️ Languages Used
 
