@@ -16,6 +16,7 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [index_of_first_occurrence_in_a_string.py](index_of_first_occurrence_in_a_string.py) |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [search_insert_position.py](search_insert_position.py) |
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [length_of_last_word.py](length_of_last_word.py) |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [climbing_stairs.py](climbing_stairs.py) |
 
 ## 🚀 How to Run
 
@@ -37,6 +38,7 @@ This repository contains my solutions to various LeetCode problems as I practice
    python index_of_first_occurrence_in_a_string.py
    python search_insert_position.py
    python length_of_last_word.py
+   python climbing_stairs.py
    ```
 
 ## 🎯 Goals
@@ -48,10 +50,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 10 solved
+- **Easy**: 11 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 10 problems
+- **Total**: 11 problems
 
 ## 🛠️ Languages Used
 
