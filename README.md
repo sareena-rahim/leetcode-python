@@ -17,6 +17,7 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [search_insert_position.py](search_insert_position.py) |
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [length_of_last_word.py](length_of_last_word.py) |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [climbing_stairs.py](climbing_stairs.py) |
+| [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [remove_duplicates_from_sorted_list.py](remove_duplicates_from_sorted_list.py) |
 
 ## 🚀 How to Run
 
@@ -39,6 +40,7 @@ This repository contains my solutions to various LeetCode problems as I practice
    python search_insert_position.py
    python length_of_last_word.py
    python climbing_stairs.py
+   python remove_duplicates_from_sorted_list.py
    ```
 
 ## 🎯 Goals
@@ -50,10 +52,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 11 solved
+- **Easy**: 12 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 11 problems
+- **Total**: 12 problems
 
 ## 🛠️ Languages Used
 
