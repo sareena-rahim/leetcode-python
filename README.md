@@ -18,6 +18,7 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [length_of_last_word.py](length_of_last_word.py) |
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [climbing_stairs.py](climbing_stairs.py) |
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [remove_duplicates_from_sorted_list.py](remove_duplicates_from_sorted_list.py) |
+| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [binary_tree_inorder_traversal.py](binary_tree_inorder_traversal.py) |
 
 ## 🚀 How to Run
 
@@ -41,6 +42,7 @@ This repository contains my solutions to various LeetCode problems as I practice
    python length_of_last_word.py
    python climbing_stairs.py
    python remove_duplicates_from_sorted_list.py
+   python binary_tree_inorder_traversal.py
    ```
 
 ## 🎯 Goals
@@ -52,10 +54,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 12 solved
+- **Easy**: 13 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 12 problems
+- **Total**: 13 problems
 
 ## 🛠️ Languages Used
 
