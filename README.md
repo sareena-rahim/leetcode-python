@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [climbing_stairs.py](climbing_stairs.py) |
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [remove_duplicates_from_sorted_list.py](remove_duplicates_from_sorted_list.py) |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [binary_tree_inorder_traversal.py](binary_tree_inorder_traversal.py) |
+| [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [same_tree.py](same_tree.py) |
 
 ## 🚀 How to Run
 
@@ -43,6 +44,7 @@ This repository contains my solutions to various LeetCode problems as I practice
    python climbing_stairs.py
    python remove_duplicates_from_sorted_list.py
    python binary_tree_inorder_traversal.py
+   python same_tree.py
    ```
 
 ## 🎯 Goals
@@ -54,10 +56,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 13 solved
+- **Easy**: 14 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 13 problems
+- **Total**: 14 problems
 
 ## 🛠️ Languages Used
 
