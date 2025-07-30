@@ -20,6 +20,7 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [remove_duplicates_from_sorted_list.py](remove_duplicates_from_sorted_list.py) |
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [binary_tree_inorder_traversal.py](binary_tree_inorder_traversal.py) |
 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [same_tree.py](same_tree.py) |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [maximum_depth_of_binary_tree.py](maximum_depth_of_binary_tree.py) |
 
 ## 🚀 How to Run
 
@@ -45,6 +46,7 @@ This repository contains my solutions to various LeetCode problems as I practice
    python remove_duplicates_from_sorted_list.py
    python binary_tree_inorder_traversal.py
    python same_tree.py
+   python maximum_depth_of_binary_tree.py
    ```
 
 ## 🎯 Goals
@@ -56,10 +58,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 14 solved
+- **Easy**: 15 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 14 problems
+- **Total**: 15 problems
 
 ## 🛠️ Languages Used
 
