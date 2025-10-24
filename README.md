@@ -21,6 +21,9 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [binary_tree_inorder_traversal.py](binary_tree_inorder_traversal.py) |
 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [same_tree.py](same_tree.py) |
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [maximum_depth_of_binary_tree.py](maximum_depth_of_binary_tree.py) |
+| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [symmetric_tree.py](symmetric_tree.py) |
+
+
 
 ## 🚀 How to Run
 
@@ -47,6 +50,7 @@ This repository contains my solutions to various LeetCode problems as I practice
    python binary_tree_inorder_traversal.py
    python same_tree.py
    python maximum_depth_of_binary_tree.py
+   python symmetric_tree.py
    ```
 
 ## 🎯 Goals
@@ -58,10 +62,10 @@ This repository contains my solutions to various LeetCode problems as I practice
 
 ## 📊 Progress
 
-- **Easy**: 15 solved
+- **Easy**: 16 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
-- **Total**: 15 problems
+- **Total**: 16 problems
 
 ## 🛠️ Languages Used
 
