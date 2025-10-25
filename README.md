@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to various LeetCode problems as I practice coding and prepare for technical interviews.
+This repository contains my solutions to various LeetCode problems.It serves as a personal learning log, showcasing my approach to solving each problem.
 
 ## 📚 Problems Solved
 
@@ -22,6 +22,8 @@ This repository contains my solutions to various LeetCode problems as I practice
 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [same_tree.py](same_tree.py) |
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [maximum_depth_of_binary_tree.py](maximum_depth_of_binary_tree.py) |
 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [symmetric_tree.py](symmetric_tree.py) |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [binary_tree_level_order_traversal.py](binary_tree_level_order_traversal.py) |
+
 
 
 
@@ -51,6 +53,7 @@ This repository contains my solutions to various LeetCode problems as I practice
    python same_tree.py
    python maximum_depth_of_binary_tree.py
    python symmetric_tree.py
+   python binary_tree_level_order_traversal.py
    ```
 
 ## 🎯 Goals
@@ -63,22 +66,33 @@ This repository contains my solutions to various LeetCode problems as I practice
 ## 📊 Progress
 
 - **Easy**: 16 solved
-- **Medium**: 0 solved
+- **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 16 problems
+- **Total**: 17 problems
 
 ## 🛠️ Languages Used
 
 - Python 3.x
 
 ## 👋 About Me
-Hi! I'm Sareena Rahim, a career changer who recently discovered my passion for programming and decided to take the leap into the tech world.
-I'm currently learning Python as a complete beginner, and what excites me most about programming is the incredible feeling of solving a problem after struggling with it. I love how there's always something new to learn — whether it's finding a better way to write code, understanding a new concept, or realizing how one small change can make a big difference.
-My goals:
 
-- Land a job as a Python developer
-- Build my own meaningful projects
-- Create real-world solutions with code
+Hi! I'm Sareena Rahim.
+
+Curiosity about AI first drew me to Python, but along the way, I discovered something even bigger, a genuine love for learning and creating through code.
+
+I’m learning Python from scratch, and there’s nothing quite like the thrill of cracking a problem after hours of effort. That moment when everything clicks, when the code runs exactly as you envisioned, feels like pure magic.
+
+What excites me most about programming is that it never stops teaching you. There’s always a more elegant solution to discover, a new concept that shifts your perspective, or a tiny tweak that transforms everything. The deeper I dive, the more fascinated I become with AI, the idea that we can build systems that learn, adapt, and solve problems we haven’t even imagined yet.
+
+I’m working towards:
+
+- Building projects that genuinely impact people
+
+- Exploring AI and understanding how intelligent systems really work
+
+- Creating solutions that make a difference, however small
+
+I embrace every stumble and breakthrough along the way. The challenges make the victories sweeter, and I’m learning to love the journey as much as the progress.
 
 📫 How to reach me:
 
