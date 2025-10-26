@@ -23,6 +23,8 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [maximum_depth_of_binary_tree.py](maximum_depth_of_binary_tree.py) |
 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [symmetric_tree.py](symmetric_tree.py) |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [binary_tree_level_order_traversal.py](binary_tree_level_order_traversal.py) |
+| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [converted_sorted_array_to_binary_search_tree.py](converted_sorted_array_to_binary_search_tree.py) |
+
 
 
 
@@ -54,6 +56,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python maximum_depth_of_binary_tree.py
    python symmetric_tree.py
    python binary_tree_level_order_traversal.py
+   python converted_sorted_array_to_binary_search_tree.py
    ```
 
 ## 🎯 Goals
@@ -65,10 +68,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 16 solved
+- **Easy**: 17 solved
 - **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 17 problems
+- **Total**: 18 problems
 
 ## 🛠️ Languages Used
 
