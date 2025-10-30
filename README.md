@@ -25,6 +25,8 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [binary_tree_level_order_traversal.py](binary_tree_level_order_traversal.py) |
 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [converted_sorted_array_to_binary_search_tree.py](converted_sorted_array_to_binary_search_tree.py) |
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [balanced_binary_tree.py](balanced_binary_tree.py) |
+| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [minimum_depth_of_binary_tree.py](minimum_depth_of_binary_tree.py) |
+
 
 
 
@@ -60,6 +62,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python binary_tree_level_order_traversal.py
    python converted_sorted_array_to_binary_search_tree.py
    python balanced_binary_tree.py
+   python minimum_depth_of_binary_tree.py
    ```
 
 ## 🎯 Goals
@@ -71,10 +74,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 18 solved
+- **Easy**: 19 solved
 - **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 19 problems
+- **Total**: 20 problems
 
 ## 🛠️ Languages Used
 
