@@ -27,6 +27,8 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [balanced_binary_tree.py](balanced_binary_tree.py) |
 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [minimum_depth_of_binary_tree.py](minimum_depth_of_binary_tree.py) |
 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [path_sum.py](path_sum.py) |
+| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [pascals_triangle.py](pascals_triangle.py) |
+
 
 
 
@@ -66,6 +68,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python balanced_binary_tree.py
    python minimum_depth_of_binary_tree.py
    python path_sum.py
+   python pascals_triangle.py
    ```
 
 ## 🎯 Goals
@@ -77,10 +80,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 20 solved
+- **Easy**: 21 solved
 - **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 21 problems
+- **Total**: 22 problems
 
 ## 🛠️ Languages Used
 
