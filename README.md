@@ -28,6 +28,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [minimum_depth_of_binary_tree.py](minimum_depth_of_binary_tree.py) |
 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [path_sum.py](path_sum.py) |
 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [pascals_triangle.py](pascals_triangle.py) |
+| [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [pascals_triangle_ii.py](pascals_triangle_ii.py) |
 
 
 
@@ -69,6 +70,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python minimum_depth_of_binary_tree.py
    python path_sum.py
    python pascals_triangle.py
+   python pascals_triangle_ii.py
    ```
 
 ## 🎯 Goals
@@ -80,10 +82,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 21 solved
+- **Easy**: 22 solved
 - **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 22 problems
+- **Total**: 23 problems
 
 ## 🛠️ Languages Used
 
