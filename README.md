@@ -29,6 +29,8 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Path Sum](https://leetcode.com/problems/path-sum/) | Easy | [path_sum.py](path_sum.py) |
 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [pascals_triangle.py](pascals_triangle.py) |
 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [pascals_triangle_ii.py](pascals_triangle_ii.py) |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best-time-to-buy-and-sell-stock.py](best-time-to-buy-and-sell-stock.py) |
+
 
 
 
@@ -71,6 +73,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python path_sum.py
    python pascals_triangle.py
    python pascals_triangle_ii.py
+   python best-time-to-buy-and-sell-stock.py
    ```
 
 ## 🎯 Goals
@@ -82,10 +85,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 22 solved
+- **Easy**: 23 solved
 - **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 23 problems
+- **Total**: 24 problems
 
 ## 🛠️ Languages Used
 
