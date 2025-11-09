@@ -30,6 +30,8 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [pascals_triangle.py](pascals_triangle.py) |
 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [pascals_triangle_ii.py](pascals_triangle_ii.py) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best-time-to-buy-and-sell-stock.py](best-time-to-buy-and-sell-stock.py) |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [valid_palindrome.py](valid_palindrome.py) |
+
 
 
 
@@ -74,6 +76,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python pascals_triangle.py
    python pascals_triangle_ii.py
    python best-time-to-buy-and-sell-stock.py
+   python valid_palindrome.py
    ```
 
 ## 🎯 Goals
@@ -85,10 +88,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 23 solved
+- **Easy**: 24 solved
 - **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 24 problems
+- **Total**: 25 problems
 
 ## 🛠️ Languages Used
 
