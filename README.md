@@ -32,9 +32,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [best-time-to-buy-and-sell-stock.py](best-time-to-buy-and-sell-stock.py) |
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [valid_palindrome.py](valid_palindrome.py) |
 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [single_number.py](single_number.py) |
-
-
-
+| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [binary_preorder_traversal.py](binary_preorder_traversal.py) |
 
 
 
@@ -80,6 +78,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python best-time-to-buy-and-sell-stock.py
    python valid_palindrome.py
    python single_number.py
+   python binary_preorder_traversal.py
    ```
 
 ## 🎯 Goals
@@ -91,10 +90,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 25 solved
+- **Easy**: 26 solved
 - **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 26 problems
+- **Total**: 27 problems
 
 ## 🛠️ Languages Used
 
