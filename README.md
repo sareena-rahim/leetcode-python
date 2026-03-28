@@ -33,6 +33,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [valid_palindrome.py](valid_palindrome.py) |
 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [single_number.py](single_number.py) |
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [binary_preorder_traversal.py](binary_preorder_traversal.py) |
+| [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [majority_element.py](majority_element.py) |
 
 
 
@@ -79,6 +80,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python valid_palindrome.py
    python single_number.py
    python binary_preorder_traversal.py
+   python majority_element.py
    ```
 
 ## 🎯 Goals
@@ -90,10 +92,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 26 solved
+- **Easy**: 27 solved
 - **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 27 problems
+- **Total**: 28 problems
 
 ## 🛠️ Languages Used
 
