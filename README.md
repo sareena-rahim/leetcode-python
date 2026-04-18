@@ -34,6 +34,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [single_number.py](single_number.py) |
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [binary_preorder_traversal.py](binary_preorder_traversal.py) |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [majority_element.py](majority_element.py) |
+| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [combine_two_tables.py](combine_two_tables.py) |
 
 
 
@@ -81,6 +82,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python single_number.py
    python binary_preorder_traversal.py
    python majority_element.py
+   python combine_two_tables.py
    ```
 
 ## 🎯 Goals
@@ -92,10 +94,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 27 solved
+- **Easy**: 28 solved
 - **Medium**: 1 solved
 - **Hard**: 0 solved
-- **Total**: 28 problems
+- **Total**: 29 problems
 
 ## 🛠️ Languages Used
 
