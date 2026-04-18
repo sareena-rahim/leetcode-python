@@ -35,12 +35,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [binary_preorder_traversal.py](binary_preorder_traversal.py) |
 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [majority_element.py](majority_element.py) |
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [combine_two_tables.py](combine_two_tables.py) |
-
-
-
-
-
-
+| [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [fruit_into_baskets.py](fruit_into_baskets.py) |
 
 
 
@@ -83,6 +78,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python binary_preorder_traversal.py
    python majority_element.py
    python combine_two_tables.py
+   python fruit_into_baskets.py
    ```
 
 ## 🎯 Goals
@@ -95,9 +91,9 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 ## 📊 Progress
 
 - **Easy**: 28 solved
-- **Medium**: 1 solved
+- **Medium**: 2 solved
 - **Hard**: 0 solved
-- **Total**: 29 problems
+- **Total**: 30 problems
 
 ## 🛠️ Languages Used
 
