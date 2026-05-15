@@ -37,7 +37,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [combine_two_tables.py](combine_two_tables.py) |
 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [fruit_into_baskets.py](fruit_into_baskets.py) |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [length_of_longest_substring.py](length_of_longest_substring.py) |
-
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest_palindromic_substring.py](longest_palindromic_substring.py) |
 
 
 ## 🚀 How to Run
@@ -81,6 +81,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python combine_two_tables.py
    python fruit_into_baskets.py
    python length_of_longest_substring.py
+   python longest_palindromic_substring.py
    ```
 
 ## 🎯 Goals
@@ -93,9 +94,9 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 ## 📊 Progress
 
 - **Easy**: 28 solved
-- **Medium**: 3 solved
+- **Medium**: 4 solved
 - **Hard**: 0 solved
-- **Total**: 31 problems
+- **Total**: 32 problems
 
 ## 🛠️ Languages Used
 
