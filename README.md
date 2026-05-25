@@ -38,6 +38,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [fruit_into_baskets.py](fruit_into_baskets.py) |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [length_of_longest_substring.py](length_of_longest_substring.py) |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest_palindromic_substring.py](longest_palindromic_substring.py) |
+| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [container_with_most_water.py](container_with_most_water.py) |
 
 
 ## 🚀 How to Run
@@ -82,6 +83,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python fruit_into_baskets.py
    python length_of_longest_substring.py
    python longest_palindromic_substring.py
+   python container_with_most_water.py
    ```
 
 ## 🎯 Goals
@@ -94,9 +96,9 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 ## 📊 Progress
 
 - **Easy**: 28 solved
-- **Medium**: 4 solved
+- **Medium**: 5 solved
 - **Hard**: 0 solved
-- **Total**: 32 problems
+- **Total**: 33 problems
 
 ## 🛠️ Languages Used
 
