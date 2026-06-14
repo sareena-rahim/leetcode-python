@@ -40,6 +40,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [longest_palindromic_substring.py](longest_palindromic_substring.py) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [container_with_most_water.py](container_with_most_water.py) |
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [contains_duplicate.py](contains_duplicate.py) |
+| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [contains_duplicate_ii.py](contains_duplicate_ii.py) |
 
 
 ## 🚀 How to Run
@@ -86,6 +87,7 @@ This repository contains my solutions to various LeetCode problems.It serves as 
    python longest_palindromic_substring.py
    python container_with_most_water.py
    python contains_duplicate.py
+   python contains_duplicate_ii.py
    ```
 
 ## 🎯 Goals
@@ -97,10 +99,10 @@ This repository contains my solutions to various LeetCode problems.It serves as 
 
 ## 📊 Progress
 
-- **Easy**: 29 solved
+- **Easy**: 30 solved
 - **Medium**: 5 solved
 - **Hard**: 0 solved
-- **Total**: 34 problems
+- **Total**: 35 problems
 
 ## 🛠️ Languages Used
 
